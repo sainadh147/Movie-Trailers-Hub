@@ -1,16 +1,15 @@
 # Movie Trailers Hub
-A responsive website for browsing and watching trailers of popular and trending movies.
+
+Movie Trailers Hub is a dynamic and responsive website that allows users to browse and watch trailers of popular and trending movies. With seamless trailer playback and integration of Firebase for user authentication, this site provides an engaging experience for movie lovers.
 
 ## Features
-- Browse popular and trending movies.
-- Search for movies by title or genre.
-- Personalized movie recommendations.
-- Watch trailers directly on YouTube.
-- User authentication with Firebase.
-- Responsive design for an optimal experience on all devices.
+- **Movie Browsing**: View the latest popular and trending movies.
+- **Trailer Playback**: Watch trailers directly on the site using YouTube integration.
+- **User Authentication**: Secure user login and registration using Firebase Authentication.
+- **Responsive Design**: Fully responsive layout to ensure a smooth experience across all devices.
+- **Real-Time Movie Data**: Fetches and displays movie details dynamically from the TMDB API.
 
 ## Technologies Used
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Firebase for user authentication and database
-- AI-powered Recommendations: ChatGPT API
-- Video Playback: YouTube API
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: Firebase (Authentication)
+- **APIs**: TMDB API for movie data, YouTube API for trailer playback
